@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Base path to derivatives
-export deriv_root=/data/elevchenko/MovieProject2/bids_data/derivatives
+export deriv_root=/data/jbuzinel/MovieProject/bids_data/derivatives
 
 # Find all subjects with a backtothefuture results folder
 subjects=$(find $deriv_root -maxdepth 3 -type d -name "sub-*.results.*" -path "*/backtothefuture/*" | sed -E 's|.*/sub-([0-9]+)\.results.*|\1|' | sort -u)
