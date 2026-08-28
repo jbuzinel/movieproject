@@ -49,4 +49,4 @@ for subj in $subjects; do
 done
 
 # Zip outputs
-find /data/elevchenko/MovieProject2/bids_data/derivatives -type f \( -name "*.nii" -o -name "*.BRIK" \) -exec gzip -f "{}" \;
+find /data/jbuzinel/MovieProject/bids_data/derivatives -type f \( -name "*.nii" -o -name "*.BRIK" \) -exec gzip -f "{}" \;
