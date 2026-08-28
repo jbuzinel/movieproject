@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 
 # Define paths
-base_dir = Path('/data/jbuzinel/MovieProject')
+base_dir = Path('/nndb_teens/jure/MovieProject')
 bttf_dir = 'backtothefuture'
 fd_file_pattern = 'motion_{subject_id}_enorm.1D'
 
