@@ -5,7 +5,7 @@ The scripts were adapted from [https://github.com/levchenkoegor/movieproject2](h
 
 ## Overview
 
-This repository contains scripts for converting data to a BIDS-compliant format, preprocessing, analysing, and plotting data from the *Naturalistic Neuroimaging Database - Teens*. The accompanying paper, which describes the tasks, MRI protocols, quality control procedures, and more, is available [here](https://www.nature.com/articles/s41597-026-07676-4). The dataset itself is available on the [OpenNeuro repository](https://openneuro.org/datasets/ds006642/versions/1.1.1). Scripts used to analyse the task (backtothefuture) are provided in the relevant folder.
+This repository contains scripts for converting data to a BIDS-compliant format, preprocessing, analysing, and plotting data from the *Naturalistic Neuroimaging Database - Teens*. The accompanying paper, which describes the tasks, MRI protocols, quality control procedures, and more, is available [here](). The dataset itself is available on the [OpenNeuro repository](https://openneuro.org/datasets/ds006642/versions/1.1.1). Scripts used to analyse the task (backtothefuture) are provided in the relevant folder.
 
 ## Repository Structure
 
